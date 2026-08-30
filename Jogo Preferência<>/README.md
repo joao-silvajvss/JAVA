@@ -1,4 +1,4 @@
-# 🎮 Jogo Preferência — Projeto Integrador
+# 🎮 Jogo Preferência <> — Projeto Integrador
 
 O **Preferência** é um jogo de perguntas e respostas em modo console, desenvolvido em **Java**, inspirado no estilo *"Would You Rather"* e *"The Higher Lower Game"*. O objetivo do jogador é analisar duas opções e adivinhar qual delas possui maior preferência/popularidade com base em votações de público.
 
